@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am an **AI Developer, Startup Founder, & Tech Entrepreneur** pursuing a BS in Artificial Intelligence at **FAST - National University of Computer and Emerging Sciences, Islamabad** (Class of 2026). My work bridges high-level Artificial Intelligence research with practical, automated business and e-commerce software.
+I am an **AI Developer, Startup Founder, & Tech Entrepreneur** holding a BS in Artificial Intelligence from **FAST - National University of Computer and Emerging Sciences, Islamabad** (Class of 2026). My work bridges high-level Artificial Intelligence research with practical, automated business and e-commerce software.
 
 - 💡 **Main Startup Project**: Founder & Lead Developer at **[EffortlessPOD.com](https://effortlesspod.com)**, building automated workflows and research platforms for Print-on-Demand sellers.
 - 🎙️ **Conversational AI**: Developer of **[CleoTalk](https://cleotalk.kraftedintelligence.com)**, an intelligent conversational AI chatbot platform and plugin ecosystem.
@@ -30,7 +30,7 @@ I am an **AI Developer, Startup Founder, & Tech Entrepreneur** pursuing a BS in 
   <a href="https://www.producthunt.com/@zuhairkazmi14" target="_blank">
     <img src="https://img.shields.io/badge/Product_Hunt-%23DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white" alt="Product Hunt" />
   </a>
-  <a href="https://www.quora.com/profile/Zuhair-Kazmi" target="_blank">
+  <a href="https://www.quora.com/profile/Zuhair-Kazmi-3" target="_blank">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />
   </a>
   <a href="https://kaggle.com/zuhairkazmi" target="_blank">
