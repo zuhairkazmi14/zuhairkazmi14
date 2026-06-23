@@ -8,12 +8,13 @@
 
 ### 🚀 About Me
 
-I am a passionate **Technology Enthusiast & BS Artificial Intelligence Student** at **FAST - National University of Computer and Emerging Sciences, Islamabad** (Class of 2026). My work revolves around **Machine Learning**, **Computer Vision**, and **Agentic AI** systems. I love bridging the gap between raw intelligence models and user-facing applications.
+I am an **AI Developer, Startup Founder, & Tech Entrepreneur** pursuing a BS in Artificial Intelligence at **FAST - National University of Computer and Emerging Sciences, Islamabad** (Class of 2026). My work bridges high-level Artificial Intelligence research with practical, automated business and e-commerce software.
 
-- 💼 **Recent Experience**: AI Intern at **Instake AI** (Building machine learning workflows & automation systems).
-- 🧠 **Research Interests**: Agentic workflows, generative AI models, and optimized computer vision pipelines.
-- ✍️ **Blogging**: I share tech insights and guides at [Ideation World](https://ideationworld.blogspot.com/).
-- ⚡ **Fun Fact**: I love translating complex algorithmic concepts into practical open-source automation tools.
+- 💡 **Main Startup Project**: Founder & Lead Developer at **[EffortlessPOD.com](https://effortlesspod.com)**, building automated workflows and research platforms for Print-on-Demand sellers.
+- 🎙️ **Conversational AI**: Developer of **[CleoTalk](https://cleotalk.kraftedintelligence.com)**, an intelligent conversational AI chatbot platform and plugin ecosystem.
+- 🛍️ **E-Commerce & POD Expert**: Actively run a **Print-on-Demand business on Etsy** as a hobby, and serve as an **E-Commerce Account Advisor** helping sellers set up, optimize, and connect stores and payout channels (including Etsy, Redbubble, TeePublic, Payoneer, and more).
+- 💼 **Professional Experience**: AI Intern at **Instake AI** (Machine learning pipelines and workflow automation).
+- 🧠 **Research Focus**: Agentic workflows, generative AI pipelines, and computer vision systems.
 
 ---
 
@@ -26,8 +27,11 @@ I am a passionate **Technology Enthusiast & BS Artificial Intelligence Student**
   <a href="mailto:zuhairkazmi12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ideationworld.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  <a href="https://www.producthunt.com/@zuhairkazmi14" target="_blank">
+    <img src="https://img.shields.io/badge/Product_Hunt-%23DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white" alt="Product Hunt" />
+  </a>
+  <a href="https://www.quora.com/profile/Zuhair-Kazmi" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />
   </a>
   <a href="https://kaggle.com/zuhairkazmi" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -78,45 +82,48 @@ I am a passionate **Technology Enthusiast & BS Artificial Intelligence Student**
 
 ---
 
-### 💻 Featured Projects
+### 💻 Startup & Highlighted Projects
 
-Here are some of the primary projects I have designed and developed, ranging from full-stack AI platforms to systems-level programming and game engineering.
+Here are the primary projects and businesses I build and scale:
+
+#### 🚀 **[EffortlessPOD.com](https://effortlesspod.com)** *(Startup Main Project)*
+*An automated product research, optimization, and asset upload engine for Print-on-Demand e-commerce sellers.*
+* **Details**: Simplifies metadata research, automates cross-platform uploads, and streamlines store listing configurations.
+* **Tech Stack**: Python, Automation Workflows, E-Commerce APIs
+
+#### 🎙️ **[CleoTalk](https://cleotalk.kraftedintelligence.com)** *(Conversational AI Widget)*
+*An intelligent chatbot platform enabling automated customer interactions and website widget integrations.*
+* **Details**: Powered by custom conversational agents and built to provide context-aware, low-latency client assistance.
+* **Tech Stack**: PHP, JavaScript, WordPress APIs, Generative AI Integration
 
 #### 🏡 **[Residea.ai](https://github.com/zuhairkazmi14)**
 *An AI-driven real estate platform combining predictive property recommendations with generative renovation insights.*
-* **Details**: Helps users identify, verify, and optimize the value of property investments.
-* **Tech Stack**: Django, React, PostgreSQL, AI Recommendation Engines, LLMs
-
-#### 🤖 **[agentos](https://github.com/zuhairkazmi14/agentos)**
-*An experimental runtime environment and framework for creating and orchestrating autonomous AI agents.*
-* **Details**: Designed to support event-driven pipelines and modular tools for LLM-based agent systems.
-* **Tech Stack**: TypeScript, Node.js, Git
+* **Details**: Helps users identify, verify, and optimize property investment values.
+* **Tech Stack**: Django, React, PostgreSQL, AI Recommendation Engines
 
 #### 🌐 **[NeighbourNet](https://github.com/zuhairkazmi14/NeighbourNet)**
-*A localized community-building web application connecting neighbors to exchange skills and resources.*
-* **Details**: Designed to build mutual trust networks in modern community environments.
-* **Tech Stack**: Python, JavaScript, HTML5/CSS3
+*A community-focused web platform connecting neighbors to securely exchange localized resources and skills.*
+* **Tech Stack**: Python, HTML5/CSS3, JavaScript
+
+#### 🛍️ **E-Commerce & Account Advisory Services** *(Consulting)*
+*Specialized account setup, store optimization, and digital payout system advising.*
+* **Details**: Providing step-by-step account configuration, compliance verification, and optimization strategies for global platforms: **Etsy**, **Redbubble**, **TeePublic**, and payout gateways like **Payoneer**.
 
 #### 📝 **[Trend2Image Story Generator](https://github.com/zuhairkazmi14/NLP-Trending-Story-Generator-from-youtube-Trends)**
-*An NLP microservice that scrapes YouTube trends, drafts engaging stories, and couples them with generative images.*
-* **Details**: Transforms viral trends into multi-modal narrative summaries.
+*An NLP microservice translating trending topics on YouTube into AI-generated narrative summaries and illustrations.*
 * **Tech Stack**: Python, GPT-2, Stable Diffusion, Selenium
 
 #### 🎮 **[Animal Crasher 2.0](https://github.com/zuhairkazmi14/Animal_Crasher_2.0)**
-*A Candy Crush clone developed in C++ using advanced graphics frameworks and a fully animated custom animal theme.*
-* **Details**: Heavy focus on Object-Oriented Design (OOD), memory safety, and performance optimization.
-* **Tech Stack**: C++, Custom 2D Graphics Lib, OOP principles
+*A fully animated Candy Crush clone developed in C++ using advanced OOP design patterns and graphics frameworks.*
+* **Tech Stack**: C++, Custom 2D Graphics Lib, Object-Oriented Programming
 
 #### 🔧 **[Alfatypes IT Support](https://github.com/zuhairkazmi14/Alfatypes---Open-Source-IT-Support-projects)**
-*An open-source hub of automated scripts and systems for diagnostics and technical support workflows.*
-* **Details**: Provides ready-to-run automation tools for network and systems administration troubleshooting.
-* **Tech Stack**: C++, Shell Scripting, Automation workflows
+*A C++ library of troubleshooting diagnostics, helper scripts, and automated troubleshooting workflows.*
+* **Tech Stack**: C++, Scripting, Systems diagnostics
 
 ---
 
 ### 📊 GitHub Statistics & Metrics
-
-To highlight my recent activity, languages preference, and repository achievements:
 
 <p align="center">
   <a href="https://github.com/zuhairkazmi14">
