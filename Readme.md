@@ -33,7 +33,7 @@ I am an **AI Developer, Startup Founder, & Tech Entrepreneur** holding a BS in A
   <a href="https://www.quora.com/profile/Zuhair-Kazmi-3" target="_blank">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />
   </a>
-  <a href="https://kaggle.com/zuhairkazmi" target="_blank">
+  <a href="https://www.kaggle.com/zuhairkazmi14" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://fb.com/zuhair.kazmi.92" target="_blank">
